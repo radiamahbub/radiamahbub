@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="images/cover.png" width="100%" alt="Radia Mahbub — Developer Banner" />
 
@@ -6,8 +6,9 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/radiamahbub)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/radiamahbub/)
+<a href="https://github.com/radiamahbub"><img src="https://img.shields.io/badge/GitHub-radiamahbub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/radiamahbub/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<img src="https://komarev.com/ghpvc/?username=radiamahbub&label=Profile+views&color=8B5CF6&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -15,67 +16,84 @@
 
 ## 👩🏻‍💻 About Me
 
-* 💻 Full-stack developer working with web technologies and application development.
-* 🌱 Strengthening my skills in Python, Django, and backend engineering.
-* ⚙️ Interested in REST APIs, database design, and software architecture.
-* 🤖 Exploring AI and its practical applications in software development.
-* 🎯 Working toward building reliable, useful, and intelligent applications.
+I'm a full-stack developer who enjoys turning ideas into reliable, useful web applications, and I'm currently going deeper into backend engineering.
 
-> 〜 𝐂𝐨𝐝𝐞 𝐭𝐡𝐞 𝐟𝐫𝐨𝐧𝐭𝐞𝐧𝐝, 𝐛𝐚𝐜𝐤𝐞𝐧𝐝 & 𝐛𝐫𝐚𝐢𝐧𝐬. 💻✧
+- 💻 Strengthening my skills in **Python, Django** and backend engineering
+- 🔌 Interested in **REST APIs, database design** and software architecture
+- 🤖 Exploring how **AI** can be practically applied in software development
+- 🎯 Building toward reliable, useful and intelligent applications
+
+### 🧭 What I'm building toward
+
+I want to build full-stack applications where AI is a practical part of the product, not an add-on: smart search, recommendations and assistants backed by clean APIs and solid database design.
+
+> *Code the frontend, backend & brains.* 💻✧
+
+---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+<table>
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,php,js,html,css&theme=dark" alt="Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frameworks &amp; Libraries</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=django,laravel,react,tailwind,bootstrap&theme=dark" alt="Frameworks and libraries" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases &amp; Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github&theme=dark" alt="Databases and tools" />
+    </td>
+  </tr>
+</table>
 
-**Frameworks & Libraries**
+</div>
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-
-**Databases & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+---
 
 ## 🚀 Featured Projects
 
-### 📚 Library Management System
+| Project | What it is | Stack | Links |
+| :-- | :-- | :-- | :-- |
+| 📚 **Library Management System** | Manage library records with CRUD operations, forms, templates and database relationships. | `Python` `Django` `SQLite` | [Code](https://github.com/radiamahbub/REPO-NAME) · [Live demo](https://YOUR-DEMO-LINK) |
+| 🎓 **Learning Management System** | Web platform for managing students, trainers and administrative workflows. | `PHP` `Laravel` `MySQL` | [Code](https://github.com/radiamahbub/REPO-NAME) · [Live demo](https://YOUR-DEMO-LINK) |
+| 🛒 **Django E-commerce** | Full-stack e-commerce app with a structured backend and modern frontend. | `Python` `Django` `PostgreSQL` `React` | [Code](https://github.com/radiamahbub/REPO-NAME) · [Live demo](https://YOUR-DEMO-LINK) |
 
-A Django project for managing library records and practicing CRUD operations, forms, templates, and database relationships.
+### 🖼️ Previews
 
-**Technologies:** Python · Django · SQLite
+<div align="center">
 
-### 🎓 Learning Management System
+<table>
+  <tr>
+    <td align="center"><b>Library Management</b></td>
+    <td align="center"><b>Learning Management</b></td>
+    <td align="center"><b>Django E-commerce</b></td>
+  </tr>
+  <tr>
+    <td><img src="images/library.png" width="300" alt="Library Management System screenshot" /></td>
+    <td><img src="images/lms.png" width="300" alt="Learning Management System screenshot" /></td>
+    <td><img src="images/ecommerce.png" width="300" alt="Django E-commerce screenshot" /></td>
+  </tr>
+</table>
 
-A web-based platform for managing students, trainers, and administrative workflows.
+</div>
 
-**Technologies:** PHP · Laravel · MySQL
+---
 
-### 🛒 Django E-commerce
-
-A learning project focused on building a full-stack e-commerce application with a structured backend and modern frontend.
-
-**Technologies:** Python · Django · PostgreSQL · React
-
-<!-- Replace the project descriptions with links to your actual repositories when ready. -->
-
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=radiamahbub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=C4B5FD" alt="Radia's GitHub statistics" />
-
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radiamahbub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4B5FD" alt="Most used languages" />
 
 <br/>
@@ -84,28 +102,39 @@ A learning project focused on building a full-stack e-commerce application with 
 
 </div>
 
-## 🌱 Currently Learning
+---
 
-* Django REST Framework and API development
-* Authentication, authorization, and application security
-* Software architecture, testing, and maintainable code
-* Practical AI integration in full-stack applications
-
-## 🤝 Connect With Me
+## 📈 Recent Activity
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-radiamahbub-181717?style=for-the-badge\&logo=github)](https://github.com/radiamahbub)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/radiamahbub/)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=radiamahbub&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=C4B5FD&area=true&area_color=8B5CF6" width="100%" alt="Contribution activity graph" />
 
 </div>
 
 ---
 
+## 🌱 Currently Learning
+
+- ⚡ Django REST Framework and API development
+- 🔐 Authentication, authorization and application security
+- 🏗️ Software architecture, testing and maintainable code
+- 🤖 Practical AI integration in full-stack applications
+
+---
+
+## 🤝 Let's Connect
+
 <div align="center">
 
-*Learn continuously. Build thoughtfully. Improve consistently.*
+I'm always happy to talk about web development, backend design or AI.
 
-**〜 Code the frontend, backend & brains. 💻✧**
+<a href="https://www.linkedin.com/in/radiamahbub/"><img src="https://img.shields.io/badge/Message_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="" />
+
+*Learn continuously. Build thoughtfully. Improve consistently.*
 
 </div>
